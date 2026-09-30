@@ -12,7 +12,7 @@ The primary goals are:
 * Modular architecture
 * Easily extendable through extension points
 * Support for REST API, CLI, Workers, and future interfaces (gRPC, GraphQL, etc.)
-
+sss
 ---
 
 # Root Structure
